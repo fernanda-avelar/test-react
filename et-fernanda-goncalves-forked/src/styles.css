@@ -1,0 +1,22 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.menu {
+  border: black 1px solid;
+  padding: 5px;
+}
+
+.link {
+  color: #2222ff;
+  cursor: pointer;
+}
+
+.link:hover {
+  color: #ff00ff;
+}
+
+.content {
+  margin: 30px 0 0 0;
+}
